@@ -1,6 +1,6 @@
 /**
  * @file ws2812.h
- * @brief WS2812B LED Martix Driver Library With STM32HAL
+ * @brief WS2812B LED Matrix Driver Library With STM32HAL
  * @author blackcat (minexo79@gmail.com)
  * @version 0.1
  * @date 2024.05.01
